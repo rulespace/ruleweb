@@ -1,0 +1,19 @@
+{
+  "name": "rule-web",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jens Nicolay <jens.nicolay@gmail.com>",
+  "license": "LICENSE SEE LICENCE",
+  "devdependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.6"
+  },
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.6",
+    "http-server": "^14.1.1",
+    "rollup": "^2.79.1"
+  }
+}
